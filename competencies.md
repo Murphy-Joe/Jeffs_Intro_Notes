@@ -6,6 +6,8 @@
 ## Unconcscious Incompetence
 > There are things that you don't know how to do, and you aren't even aware of that yet. (new stuff that sounds important.) Stuff to research or ask about.
 
+- Git - what the heck is this?
+
 ## Conscious Incompetence
 > There are things you don't know how to do yet, but you know you need to learn it.
 
