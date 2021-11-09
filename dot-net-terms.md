@@ -15,4 +15,7 @@
     - the choice of languages, we will use C#.
 
 
+When you compile a .NET application, you create an *Assembly*.
+An assembly contains you compiled IL code and a "database" of all the types in that assembly.
+
 
