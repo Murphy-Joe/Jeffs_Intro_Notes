@@ -45,3 +45,14 @@ Two Kinds:
     - Make it good. 
 
     Red -> Green -> Refactor
+
+
+## Four Rules of Simple Design
+
+Passes the tests
+Reveals intention
+
+
+
+No duplication (DRY - Don't Repeat Yourself - "Moist")
+Fewest elements (Bugs scale linearly with the numbers of lines of code.)
