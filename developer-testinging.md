@@ -21,6 +21,15 @@ Two Kinds:
 - Test a single "Unit" of code in isolation from other code.
 - a Unit for us is usually a method on a class.
 - These are "White Box" tests - they know how the code is implemented.
+
+Unit tests can NEVER:
+    - Touch a database
+    - Touch the file system
+    - Use the network
+    - Interact with a user
+    - Depend on a clock
+
+    
 ### Isolated Integration Tests
 - Anytime we are testing more than one unit together.
 - You can only test your code.
